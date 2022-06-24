@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Return Youtube Dislikes</string>
+    <string name="return_youtube_dislikes">Return Youtube Dislikes</string>
+    <string name="video_id_ex_akrxc_qdfma">Video id (Ex: aKrXC_QdfMA)</string>
+    <string name="get_data">Get Data</string>
+</resources>
