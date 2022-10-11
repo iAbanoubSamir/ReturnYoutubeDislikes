@@ -1,8 +1,9 @@
 # Return Youtube Dislikes
 Android app to get youtube statistics:
-- Date Created
+- Video image
 - Likes Count
 - Dislikes Count
+- Date Created
 - Rating
 - View Count
 
